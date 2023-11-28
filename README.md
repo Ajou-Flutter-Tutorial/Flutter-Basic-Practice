@@ -9,8 +9,9 @@
 이 학습과정을 통해 다음 내용들을 학습 할 수 있습니다.
 - DART 기초 문법
 - Flutter 개요, 개발환경 설정
-- 기본적인 위젯(Text, Image, Icon, Container, SizedBox, ListView, ListTile, ElevatedButton)
+- 기본위젯(Text, Image, Icon, Container, SizedBox, ListView, ListTile, ElevatedButton)
 - 입력위젯(Radio, CheckBox, Switch, DropdownButton, Slider, TextField, Gesture)
+- SnackBar, Drawer, Navigator
 - widget tree,  Material & Cupertino, Scaffold, stateless widget & stateful widget, state & setState, context 의 개념
 
 ---
